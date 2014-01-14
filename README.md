@@ -7,7 +7,7 @@ Es soll mögliche Züge anzeigen können, unterschiedliche darstellungsarten sol
 Ich entschuldige mich besser im vorhinein für den 5mal so langen Code als er sein müsste. 
 ..aber er funktioniert bis jetzt ganz gut :D 
 
-Bisher Erledigt:\n
+Bisher Erledigt:
 -Klasse Bauern
 -Klasse Turm
 -Klasse Springer
@@ -19,7 +19,7 @@ Bisher Erledigt:\n
 -Zuganzeige
 -...
 
-Zu erledigen:\n
+Zu erledigen:
 -Rochadenproblem lösen (Turm fress problem)
 -Bauern e passant schlagen
 -Gewinnsound ändern
