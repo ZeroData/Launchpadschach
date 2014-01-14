@@ -17,10 +17,10 @@ Bisher Erledigt:
 -Designoberfläche
 -Anzeige der Spielfiguren auf virtuellem Brett
 -Zuganzeige
+-Bauern en passant schlagen
 -...
 
 Zu erledigen:
 -Rochadenproblem lösen (Turm fress problem)
--Bauern e passant schlagen
 -Gewinnsound ändern
 -Code kürzen
