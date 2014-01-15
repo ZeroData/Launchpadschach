@@ -21,6 +21,5 @@ Bisher Erledigt:
 -...
 
 Zu erledigen:
--Rochadenproblem lösen (Turm fress problem)
 -Gewinnsound ändern
 -Code kürzen
